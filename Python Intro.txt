@@ -1,0 +1,30 @@
+Python:
+Python is a high level general purpose programming language
+
+High level->python’s syntax is as simple as like English
+Levels:
+1.low level languages - assembly 8086
+2.mid level - >
+3.high level ->python, darts
+
+General Purpose:
+1.App development - desktops, web (Django,fastapi,flask…)
+2.game development(pandas3d)
+3.Data Science(sklearn)
+4.Mobile App Development (Kivvy)
+
+Features:
+1.Dynamically Typed Programming
+2.Open  Source
+3.High LEVEL
+4.General Purpose
+5.Interpreted Programming
+Interpreter - >which executes our program in line by line manner
+Compiler->it executes the whole program at once
+
+Data Types:
+1.number-int,float,complex
+2.boolean - True/False
+3.String - alphanumeric - ‘ ’ , “ “ 
+4.None 
+
