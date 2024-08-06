@@ -28,3 +28,16 @@ Data Types:
 3.String - alphanumeric - ‘ ’ , “ “ 
 4.None 
 
+Operators:
+1.Arithmetical Operators:+,-,*,/,//,%
+2.Assignment Operator:
+=,+=,-=,/=,*=,%=,**=
+3.Relational /Comparison Operator
+>,<,>=,<=,!=(not equals),==(equality Operator)
+4.Logical Operators:
+And,or,not
+
+Conditional Statements:
+If-else:
+
+
